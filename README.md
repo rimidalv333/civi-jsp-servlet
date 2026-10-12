@@ -1,4 +1,4 @@
-# Thesis Project - CiVi
+# Web based CV builder - CiVi
 
 **Introduction:**
 
